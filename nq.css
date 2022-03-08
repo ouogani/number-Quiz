@@ -1,0 +1,63 @@
+body{
+    color: white; 
+    overflow: hidden;
+    font-family: Circular,Helvetica,Arial,sans-serif!important;
+}
+
+.number-Game{
+    background-color: black;
+    Height: 100vh;
+}
+
+nav {
+    font-size: 7vw;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.header-white{
+    position: absolute;
+    color: white;
+    padding-left: 0.58em; 
+    width: 40vw;
+}
+
+.header-yellow{
+    
+    color: yellow;
+    padding-left: 0.5em;
+    width: 40vw;
+}
+
+main {
+    font-size: 1vw;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.result{
+   
+    text-decoration-line: underline;
+    text-decoration-color: yellow;
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+.in-number{
+    margin: 4vw;
+}
+
+.in-number>input{
+    width: 30vw;
+}
+
+input{
+    width: 100px;
+}
+
+button {
+    border-radius: 2em;
+    background-color: white;
+    border: thick double yellow;
+    padding: 0.1em 0.2em;
+}
